@@ -151,14 +151,3 @@ MIT License，可自由使用、修改、分发。
 
 
 
-```
----
- 
-### 使用说明
-1. 替换README中的`你的GitHub用户名`和`你的仓库名`为你实际的GitHub信息
-2. 如果后续新增功能或修改了脚本，可以随时更新README的内容
-3. 可以在README开头添加项目Star/下载量等徽章，让项目更专业，比如：
-​```markdown
-![GitHub stars](https://img.shields.io/github/stars/你的用户名/你的仓库名?style=flat-square)![GitHub forks](https://img.shields.io/github/forks/你的用户名/你的仓库名?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/你的用户名/你的仓库名?style=flat-square)
-```
